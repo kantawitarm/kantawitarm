@@ -1,6 +1,12 @@
-<img src="https://drive.google.com/file/d/12fQooUgeIKsBykowbH-bd22p5CyM1O_Q/view?usp=sharing" alt="Description of the image"></img>
+<img  style="width: 100%; height: 150px; object-fit: cover;" src="https://www.pixground.com/wp-content/uploads/2023/10/Anime-Sunset-Sky-AI-Generated-4K-Wallpaper.jpg" alt="Description of the image"/>
 <h1 align="center">Hi 👋, I'm Kantawit Sakhet</h1>
-<h3 align="center">A passionate Backend developer from Thailand</h3>
+
+<h3 align="center">
+  A passionate Backend developer from Thailand <image align="center" style="width: 20px; height: 20px; object-fit: fill;" src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1f9-1f1ed.svg"></image>
+</h3>
+
+<img align="right"  style="width: 200px; height: 200px; object-fit: fill;" src="https://media1.giphy.com/media/MeCyHmilLHIjWPcpWV/giphy.gif?cid=ecf05e47r8cdk1y7s0yo5b6zr9tnxnwa0ac7kzq6w5bdg0dg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Description of the image"/>
+
 
 - 🌱 I’m currently learning **Machien learning**
 
@@ -9,6 +15,9 @@
 - 📫 How to reach me **kantawitsakhet@gmail.com**
 
 - 📄 Know about my experiences [link](https://www.canva.com/design/DAFa1owsD0w/iSD0K3zRj1eOwYNdyNnNdQ/view?utm_content=DAFa1owsD0w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
