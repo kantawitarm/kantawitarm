@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **kantawitsakhet@gmail.com**
 
+<!-- Write your comments here 
 - 📄 Know about my experiences [link](https://www.canva.com/design/DAFa1owsD0w/iSD0K3zRj1eOwYNdyNnNdQ/view?utm_content=DAFa1owsD0w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-
+-->
 
 
 <h3 align="left">Connect with me:</h3>
